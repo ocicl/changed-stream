@@ -1,0 +1,10 @@
+* changed-stream
+
+A lisp library, changed-stream lets you apply changes to a stream, without modifying the underlying stream.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/WarrenWilkinson/changed-stream.git   |
+| commit  | 5b417d4  |
+| systems | changed-stream |
+|---------+-------------------------------------------|
+
